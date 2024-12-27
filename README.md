@@ -2,6 +2,10 @@
 I edit the Download Link and my Installation was successful.
 No Desktop Icons but enter http://localhost:8888 in Chrome or something and you get to your Resilio Webinterface to Configure Sync
 
+**Installation:** 
+
+To install the tool, simply go to desktop mode on your Steam Deck, open a browser and download the newest version of R4SD by [right-clicking here and saving the file](https://raw.githubusercontent.com/J000K3R/Resilio4SteamDeck/refs/heads/main/InstallResilio4SteamDeck.desktop) (Save link as) to your downloads folder / desktop and run it from there.
+
 Text from [Tritschla](https://github.com/Tritschla)
 
 # R4SD - Resilio4SteamDeck
