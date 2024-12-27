@@ -1,3 +1,9 @@
+#  Edit by J000K3R
+I edit the Download Link and my Installation was successfull.
+No Desktop Icons but enter http://localhost:8888 in Chrome or something and you get to your Resilio Webinterface to Configure Sync
+
+Text from [Tritschla](https://github.com/Tritschla)
+
 # R4SD - Resilio4SteamDeck
 
 I created this tool to make it easy for users to install Resilio Sync onto their SteamDeck running SteamOS 3 and above.
