@@ -1,5 +1,5 @@
 #  Edit by J000K3R
-I edit the Download Link and my Installation was successfull.
+I edit the Download Link and my Installation was successful.
 No Desktop Icons but enter http://localhost:8888 in Chrome or something and you get to your Resilio Webinterface to Configure Sync
 
 Text from [Tritschla](https://github.com/Tritschla)
