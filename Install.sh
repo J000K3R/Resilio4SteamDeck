@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Author: Tritschla
-# 2023-04
+# Author: Tritschla, Edit by J000K3R
+# 2024-12
 
 # This script does the following:
 # 1. It is creating Resilio4SteamDeck (R4SD) environment
@@ -56,7 +56,7 @@ git clone https://aur.archlinux.org/rslsync.git
 
 # Download i386 rslsync package:
 cd "$HOME/.R4SD" || exit 1
-wget https://download-cdn.resilio.com/stable/linux/i386/0/resilio-sync_i386.tar.gz
+wget https://download-cdn.resilio.com/2.8.1.1390/linux/i386/0/resilio-sync_i386.tar.gz
 
 
 # Extract i386 files to destination folder
